@@ -1,0 +1,9 @@
+D:\MOMO\MOMO.EventBus\bin\Debug\netstandard2.0\MOMO.EventBus.deps.json
+D:\MOMO\MOMO.EventBus\bin\Debug\netstandard2.0\MOMO.EventBus.dll
+D:\MOMO\MOMO.EventBus\bin\Debug\netstandard2.0\MOMO.EventBus.pdb
+D:\MOMO\MOMO.EventBus\obj\Debug\netstandard2.0\MOMO.EventBus.csprojResolveAssemblyReference.cache
+D:\MOMO\MOMO.EventBus\obj\Debug\netstandard2.0\MOMO.EventBus.csproj.CoreCompileInputs.cache
+D:\MOMO\MOMO.EventBus\obj\Debug\netstandard2.0\MOMO.EventBus.AssemblyInfoInputs.cache
+D:\MOMO\MOMO.EventBus\obj\Debug\netstandard2.0\MOMO.EventBus.AssemblyInfo.cs
+D:\MOMO\MOMO.EventBus\obj\Debug\netstandard2.0\MOMO.EventBus.dll
+D:\MOMO\MOMO.EventBus\obj\Debug\netstandard2.0\MOMO.EventBus.pdb
