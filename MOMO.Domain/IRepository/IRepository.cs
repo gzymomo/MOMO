@@ -6,7 +6,7 @@ using System.Text;
 
 namespace MOMO.Domain.IRepository
 {
-	public interface IRepository<T> where T : class
+	public interface IRepository<T>: IDependency where T : class
 	{
 		T FindSingle(Expression<Func<T, bool>> exp = null);
 		bool IsExist(Expression<Func<T, bool>> exp);

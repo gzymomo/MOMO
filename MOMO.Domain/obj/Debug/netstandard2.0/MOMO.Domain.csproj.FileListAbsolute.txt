@@ -16,3 +16,12 @@ D:\MOMO\MOMO\MOMO.Domain\obj\Debug\netstandard2.0\MOMO.Domain.AssemblyInfo.cs
 D:\MOMO\MOMO\MOMO.Domain\obj\Debug\netstandard2.0\MOMO.Domain.dll
 D:\MOMO\MOMO\MOMO.Domain\obj\Debug\netstandard2.0\MOMO.Domain.pdb
 D:\MOMO\MOMO\MOMO.Domain\obj\Debug\netstandard2.0\MOMO.Domain.csprojResolveAssemblyReference.cache
+C:\Github\MOMO\MOMO.Domain\bin\Debug\netstandard2.0\MOMO.Domain.deps.json
+C:\Github\MOMO\MOMO.Domain\bin\Debug\netstandard2.0\MOMO.Domain.dll
+C:\Github\MOMO\MOMO.Domain\bin\Debug\netstandard2.0\MOMO.Domain.pdb
+C:\Github\MOMO\MOMO.Domain\obj\Debug\netstandard2.0\MOMO.Domain.csprojResolveAssemblyReference.cache
+C:\Github\MOMO\MOMO.Domain\obj\Debug\netstandard2.0\MOMO.Domain.csproj.CoreCompileInputs.cache
+C:\Github\MOMO\MOMO.Domain\obj\Debug\netstandard2.0\MOMO.Domain.AssemblyInfoInputs.cache
+C:\Github\MOMO\MOMO.Domain\obj\Debug\netstandard2.0\MOMO.Domain.AssemblyInfo.cs
+C:\Github\MOMO\MOMO.Domain\obj\Debug\netstandard2.0\MOMO.Domain.dll
+C:\Github\MOMO\MOMO.Domain\obj\Debug\netstandard2.0\MOMO.Domain.pdb

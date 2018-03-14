@@ -21,7 +21,6 @@ namespace MOMO.Test
 {
     public class EFCoreTest
     {
-		[Fact]
 	    void Test1()
 	    {
 			MoMoDbMsSqlContext db = new MoMoDbMsSqlContext(new DbContextOptions<MoMoDbMsSqlContext>());
@@ -46,6 +45,28 @@ namespace MOMO.Test
 
 			// db.SaveChanges();
 		}
+
+
+
+        [Fact]
+        void Test2()
+        {
+            MoMoDbMsSqlContext db = new MoMoDbMsSqlContext(new DbContextOptions<MoMoDbMsSqlContext>());
+            User user = new User();
+            user.Account = "asdf";
+            user.Password = "123";
+            user.Name = "Gzy";
+            user.Status = 1;
+            user.Type = 2;
+            user.Sex = Sex.男;
+            user.BizCode = "001";
+
+            db.Set<User>().Add(user);
+            db.SaveChanges();
+
+
+            // db.SaveChanges();
+        }
     }
 
 	

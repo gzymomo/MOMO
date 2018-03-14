@@ -20,3 +20,15 @@ D:\MOMO\MOMO\MOMO.Respository.EFCore\bin\Debug\netstandard2.0\MOMO.Domain.pdb
 D:\MOMO\MOMO\MOMO.Respository.EFCore\obj\Debug\netstandard2.0\MOMO.Respository.EFCore.csprojResolveAssemblyReference.cache
 D:\MOMO\MOMO\MOMO.Respository.EFCore\obj\Debug\netstandard2.0\MOMO.Respository.EFCore.dll
 D:\MOMO\MOMO\MOMO.Respository.EFCore\obj\Debug\netstandard2.0\MOMO.Respository.EFCore.pdb
+C:\Github\MOMO\MOMO.Respository.EFCore\bin\Debug\netstandard2.0\MOMO.Respository.EFCore.deps.json
+C:\Github\MOMO\MOMO.Respository.EFCore\bin\Debug\netstandard2.0\MOMO.Respository.EFCore.dll
+C:\Github\MOMO\MOMO.Respository.EFCore\bin\Debug\netstandard2.0\MOMO.Respository.EFCore.pdb
+C:\Github\MOMO\MOMO.Respository.EFCore\bin\Debug\netstandard2.0\MOMO.Domain.dll
+C:\Github\MOMO\MOMO.Respository.EFCore\bin\Debug\netstandard2.0\MOMO.Domain.pdb
+C:\Github\MOMO\MOMO.Respository.EFCore\obj\Debug\netstandard2.0\MOMO.Respository.EFCore.csprojResolveAssemblyReference.cache
+C:\Github\MOMO\MOMO.Respository.EFCore\obj\Debug\netstandard2.0\MOMO.Respository.EFCore.csproj.CoreCompileInputs.cache
+C:\Github\MOMO\MOMO.Respository.EFCore\obj\Debug\netstandard2.0\MOMO.Respository.EFCore.AssemblyInfoInputs.cache
+C:\Github\MOMO\MOMO.Respository.EFCore\obj\Debug\netstandard2.0\MOMO.Respository.EFCore.AssemblyInfo.cs
+C:\Github\MOMO\MOMO.Respository.EFCore\obj\Debug\netstandard2.0\MOMO.Respository.EFCore.csproj.CopyComplete
+C:\Github\MOMO\MOMO.Respository.EFCore\obj\Debug\netstandard2.0\MOMO.Respository.EFCore.dll
+C:\Github\MOMO\MOMO.Respository.EFCore\obj\Debug\netstandard2.0\MOMO.Respository.EFCore.pdb

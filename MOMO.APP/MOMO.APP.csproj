@@ -4,4 +4,10 @@
     <TargetFramework>netstandard2.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\MOMO.Domain\MOMO.Domain.csproj" />
+    <ProjectReference Include="..\MOMO.Infrastructure\MOMO.Infrastructure.csproj" />
+    <ProjectReference Include="..\MOMO.Respository.EFCore\MOMO.Respository.EFCore.csproj" />
+  </ItemGroup>
+
 </Project>

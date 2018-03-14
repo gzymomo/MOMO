@@ -4,7 +4,7 @@ using System.Text;
 
 namespace MOMO.Domain.IRepository
 {
-    interface IUserRespository: IRepository<User>
+     public interface IUserRespository: IRepository<User>
 	{
 
     }

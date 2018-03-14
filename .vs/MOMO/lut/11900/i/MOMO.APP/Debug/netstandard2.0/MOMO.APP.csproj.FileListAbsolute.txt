@@ -1,0 +1,10 @@
+C:\Github\MOMO\.vs\MOMO\lut\0\b\MOMO.APP\Debug\netstandard2.0\MOMO.APP.deps.json
+C:\Github\MOMO\.vs\MOMO\lut\0\b\MOMO.APP\Debug\netstandard2.0\MOMO.APP.dll
+C:\Github\MOMO\.vs\MOMO\lut\0\b\MOMO.APP\Debug\netstandard2.0\MOMO.APP.pdb
+C:\Github\MOMO\.vs\MOMO\lut\0\i\MOMO.APP\Debug\netstandard2.0\MOMO.APP.csproj.CoreCompileInputs.cache
+C:\Github\MOMO\.vs\MOMO\lut\0\i\MOMO.APP\Debug\netstandard2.0\MOMO.APP.AssemblyInfoInputs.cache
+C:\Github\MOMO\.vs\MOMO\lut\0\i\MOMO.APP\Debug\netstandard2.0\MOMO.APP.AssemblyInfo.cs
+C:\Github\MOMO\.vs\MOMO\lut\0\i\MOMO.APP\Debug\netstandard2.0\MOMO.APP.csproj.CopyComplete
+C:\Github\MOMO\.vs\MOMO\lut\0\i\MOMO.APP\Debug\netstandard2.0\MOMO.APP.dll
+C:\Github\MOMO\.vs\MOMO\lut\0\i\MOMO.APP\Debug\netstandard2.0\MOMO.APP.pdb
+C:\Github\MOMO\.vs\MOMO\lut\0\i\MOMO.APP\Debug\netstandard2.0\MOMO.APP.csprojResolveAssemblyReference.cache

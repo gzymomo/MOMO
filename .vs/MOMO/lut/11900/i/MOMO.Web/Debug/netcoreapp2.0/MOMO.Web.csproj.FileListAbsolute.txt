@@ -1,0 +1,12 @@
+C:\Github\MOMO\.vs\MOMO\lut\0\i\MOMO.Web\Debug\netcoreapp2.0\MOMO.Web.csproj.CoreCompileInputs.cache
+C:\Github\MOMO\.vs\MOMO\lut\0\i\MOMO.Web\Debug\netcoreapp2.0\MOMO.Web.AssemblyInfoInputs.cache
+C:\Github\MOMO\.vs\MOMO\lut\0\i\MOMO.Web\Debug\netcoreapp2.0\MOMO.Web.AssemblyInfo.cs
+C:\Github\MOMO\.vs\MOMO\lut\0\b\MOMO.Web\Debug\netcoreapp2.0\MOMO.Web.deps.json
+C:\Github\MOMO\.vs\MOMO\lut\0\b\MOMO.Web\Debug\netcoreapp2.0\MOMO.Web.runtimeconfig.json
+C:\Github\MOMO\.vs\MOMO\lut\0\b\MOMO.Web\Debug\netcoreapp2.0\MOMO.Web.runtimeconfig.dev.json
+C:\Github\MOMO\.vs\MOMO\lut\0\b\MOMO.Web\Debug\netcoreapp2.0\MOMO.Web.dll
+C:\Github\MOMO\.vs\MOMO\lut\0\b\MOMO.Web\Debug\netcoreapp2.0\MOMO.Web.pdb
+C:\Github\MOMO\.vs\MOMO\lut\0\i\MOMO.Web\Debug\netcoreapp2.0\MOMO.Web.csprojResolveAssemblyReference.cache
+C:\Github\MOMO\.vs\MOMO\lut\0\i\MOMO.Web\Debug\netcoreapp2.0\MOMO.Web.csproj.CopyComplete
+C:\Github\MOMO\.vs\MOMO\lut\0\i\MOMO.Web\Debug\netcoreapp2.0\MOMO.Web.dll
+C:\Github\MOMO\.vs\MOMO\lut\0\i\MOMO.Web\Debug\netcoreapp2.0\MOMO.Web.pdb

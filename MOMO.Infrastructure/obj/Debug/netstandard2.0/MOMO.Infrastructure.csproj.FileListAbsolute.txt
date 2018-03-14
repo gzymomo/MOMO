@@ -25,3 +25,12 @@ D:\MOMO\MOMO\MOMO.Infrastructure\obj\Debug\netstandard2.0\MOMO.Infrastructure.As
 D:\MOMO\MOMO\MOMO.Infrastructure\obj\Debug\netstandard2.0\MOMO.Infrastructure.AssemblyInfo.cs
 D:\MOMO\MOMO\MOMO.Infrastructure\obj\Debug\netstandard2.0\MOMO.Infrastructure.dll
 D:\MOMO\MOMO\MOMO.Infrastructure\obj\Debug\netstandard2.0\MOMO.Infrastructure.pdb
+C:\Github\MOMO\MOMO.Infrastructure\bin\Debug\netstandard2.0\MOMO.Infrastructure.deps.json
+C:\Github\MOMO\MOMO.Infrastructure\bin\Debug\netstandard2.0\MOMO.Infrastructure.dll
+C:\Github\MOMO\MOMO.Infrastructure\bin\Debug\netstandard2.0\MOMO.Infrastructure.pdb
+C:\Github\MOMO\MOMO.Infrastructure\obj\Debug\netstandard2.0\MOMO.Infrastructure.csprojResolveAssemblyReference.cache
+C:\Github\MOMO\MOMO.Infrastructure\obj\Debug\netstandard2.0\MOMO.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Github\MOMO\MOMO.Infrastructure\obj\Debug\netstandard2.0\MOMO.Infrastructure.AssemblyInfoInputs.cache
+C:\Github\MOMO\MOMO.Infrastructure\obj\Debug\netstandard2.0\MOMO.Infrastructure.AssemblyInfo.cs
+C:\Github\MOMO\MOMO.Infrastructure\obj\Debug\netstandard2.0\MOMO.Infrastructure.dll
+C:\Github\MOMO\MOMO.Infrastructure\obj\Debug\netstandard2.0\MOMO.Infrastructure.pdb
