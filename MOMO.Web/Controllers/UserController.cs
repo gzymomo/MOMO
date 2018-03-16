@@ -12,6 +12,11 @@ namespace MOMO.Web.Controllers
     {
         public UserService _userService;
 
+        public UserController(UserService  service)
+        {
+            _userService = service;
+        }
+
         // GET: User
         public ActionResult Index()
         {

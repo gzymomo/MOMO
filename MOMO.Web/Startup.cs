@@ -6,9 +6,13 @@ using Autofac;
 using Autofac.Extensions.DependencyInjection;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Internal;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using MOMO.Infrastructure;
+using MOMO.Infrastructure.Autofac;
+using MOMO.Respository.EFCore.Context;
 
 namespace MOMO.Web
 {
@@ -27,12 +31,19 @@ namespace MOMO.Web
         public IServiceProvider ConfigureServices(IServiceCollection services)
         {
             services.AddMvc().AddControllersAsServices();
-            IoCContainer.Register("MOMO.Infrastructure");
-            IoCContainer.Register("MOMO.Respository.EFCore", "MOMO.Domain");
-            IoCContainer.Register("MOMO.APP");
-           
 
-            return IoCContainer.AutofacServiceProviderBuild(services);
+            List<string> assemblys = new List<string>();
+            assemblys.Add("MOMO.Infrastructure");
+            assemblys.Add("MOMO.Respository.EFCore");
+            assemblys.Add("MOMO.Domain");
+            assemblys.Add("MOMO.APP");
+            IServiceProvider provider =  services.UseAutofac(assemblys,s =>
+            {
+                s.Register(o => new MoMoDbMsSqlContext(new DbContextOptions<MoMoDbMsSqlContext>())).InstancePerRequest();
+                return true;
+            });
+
+            return provider;
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

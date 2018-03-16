@@ -7,3 +7,4 @@ C:\Github\MOMO\.vs\MOMO\lut\0\i\MOMO.Infrastructure\Debug\netstandard2.0\MOMO.In
 C:\Github\MOMO\.vs\MOMO\lut\0\i\MOMO.Infrastructure\Debug\netstandard2.0\MOMO.Infrastructure.csproj.CopyComplete
 C:\Github\MOMO\.vs\MOMO\lut\0\i\MOMO.Infrastructure\Debug\netstandard2.0\MOMO.Infrastructure.dll
 C:\Github\MOMO\.vs\MOMO\lut\0\i\MOMO.Infrastructure\Debug\netstandard2.0\MOMO.Infrastructure.pdb
+C:\Github\MOMO\.vs\MOMO\lut\0\i\MOMO.Infrastructure\Debug\netstandard2.0\MOMO.Infrastructure.csprojResolveAssemblyReference.cache

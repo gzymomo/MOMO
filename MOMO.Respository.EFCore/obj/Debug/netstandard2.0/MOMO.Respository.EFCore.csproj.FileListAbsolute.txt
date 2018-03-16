@@ -32,3 +32,5 @@ C:\Github\MOMO\MOMO.Respository.EFCore\obj\Debug\netstandard2.0\MOMO.Respository
 C:\Github\MOMO\MOMO.Respository.EFCore\obj\Debug\netstandard2.0\MOMO.Respository.EFCore.csproj.CopyComplete
 C:\Github\MOMO\MOMO.Respository.EFCore\obj\Debug\netstandard2.0\MOMO.Respository.EFCore.dll
 C:\Github\MOMO\MOMO.Respository.EFCore\obj\Debug\netstandard2.0\MOMO.Respository.EFCore.pdb
+C:\Github\MOMO\MOMO.Respository.EFCore\bin\Debug\netstandard2.0\MOMO.Infrastructure.dll
+C:\Github\MOMO\MOMO.Respository.EFCore\bin\Debug\netstandard2.0\MOMO.Infrastructure.pdb

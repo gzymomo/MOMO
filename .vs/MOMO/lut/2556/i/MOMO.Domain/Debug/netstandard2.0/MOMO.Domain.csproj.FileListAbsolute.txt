@@ -7,3 +7,4 @@ C:\Github\MOMO\.vs\MOMO\lut\0\i\MOMO.Domain\Debug\netstandard2.0\MOMO.Domain.Ass
 C:\Github\MOMO\.vs\MOMO\lut\0\i\MOMO.Domain\Debug\netstandard2.0\MOMO.Domain.csproj.CopyComplete
 C:\Github\MOMO\.vs\MOMO\lut\0\i\MOMO.Domain\Debug\netstandard2.0\MOMO.Domain.dll
 C:\Github\MOMO\.vs\MOMO\lut\0\i\MOMO.Domain\Debug\netstandard2.0\MOMO.Domain.pdb
+C:\Github\MOMO\.vs\MOMO\lut\0\i\MOMO.Domain\Debug\netstandard2.0\MOMO.Domain.csprojResolveAssemblyReference.cache

@@ -4256,6 +4256,7 @@
         "dependencies": {
           "Castle.Windsor": "4.1.0",
           "MOMO.Domain": "1.0.0",
+          "MOMO.Infrastructure": "1.0.0",
           "Microsoft.EntityFrameworkCore.SqlServer": "2.0.1",
           "Microsoft.EntityFrameworkCore.Tools": "2.0.1",
           "MySql.Data.EntityFrameworkCore": "6.10.6"
