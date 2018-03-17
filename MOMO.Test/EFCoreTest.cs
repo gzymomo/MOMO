@@ -11,6 +11,7 @@ using Microsoft.EntityFrameworkCore.Query.Internal;
 using Microsoft.EntityFrameworkCore.Storage;
 using Microsoft.Extensions.DependencyInjection;
 using MOMO.Domain;
+using MOMO.Domain.Enum;
 using MOMO.Infrastructure.Utilities;
 using MOMO.Respository.EFCore.Context;
 using MOMO.Respository.EFCore.Generator;

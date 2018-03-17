@@ -39,7 +39,7 @@ namespace MOMO.Web
             assemblys.Add("MOMO.APP");
             IServiceProvider provider =  services.UseAutofac(assemblys,s =>
             {
-                s.Register(o => new MoMoDbMsSqlContext(new DbContextOptions<MoMoDbMsSqlContext>())).InstancePerRequest();
+                s.Register(o => new MoMoDbMsSqlContext(new DbContextOptions<MoMoDbMsSqlContext>())).InstancePerLifetimeScope();
                 return true;
             });
 

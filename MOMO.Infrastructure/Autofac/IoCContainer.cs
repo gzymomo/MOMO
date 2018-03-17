@@ -39,7 +39,7 @@ namespace MOMO.Infrastructure.Autofac
                     _builder.RegisterType(type).AsSelf().InstancePerDependency();
                 else
                 {
-                    Type interfaceType = types.First(s => s.GetTypeInfo().FullName == attribute.InterfaceFullName);
+                    Type interfaceType = types.First(s => s.GetTypeInfo() == attribute.InterfaceType);
                     switch (attribute.DependencyType)
                     {
                         case LifetimeScope.InstancePerDependency:

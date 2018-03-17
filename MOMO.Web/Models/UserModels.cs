@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using MOMO.Domain;
+using MOMO.Domain.Enum;
 
 namespace MOMO.Web.Models
 {

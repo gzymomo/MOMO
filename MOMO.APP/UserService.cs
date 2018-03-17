@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using Castle.MicroKernel.Lifestyle.Pool;
 using MOMO.Domain;
 using MOMO.Domain.IRepository;
 using MOMO.Infrastructure.Autofac;
@@ -21,7 +20,7 @@ namespace MOMO.APP
 
         public IList<User> GetUserList()
         {
-            return _userRespository.Find(null).ToList();
+            return _userRespository.Find(s=>s.Id>0).ToList();
         }
     }
 }

@@ -10,7 +10,10 @@ namespace MOMO.Respository.EFCore.Context
 	    {
 		}
 
-	    protected override void OnModelCreating(ModelBuilder modelBuilder)
+
+        public DbSet<User> User { get; set; }
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
 	    {
 		    base.OnModelCreating(modelBuilder);
 		    Mappings.UserMapping.Map(modelBuilder.Entity<User>());

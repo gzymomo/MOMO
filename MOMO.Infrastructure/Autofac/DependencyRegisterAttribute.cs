@@ -14,9 +14,9 @@ namespace MOMO.Infrastructure.Autofac
         /// <param name="interfaceFullName">完全限定名</param>
         /// <param name="alias">别名</param>
         /// <param name="type">生命周期</param>
-        public DependencyRegisterAttribute(string interfaceFullName, string alias="", LifetimeScope type = LifetimeScope.InstancePerDependency)
+        public DependencyRegisterAttribute(Type interfaceType, string alias="", LifetimeScope type = LifetimeScope.InstancePerDependency)
         {
-            InterfaceFullName = interfaceFullName;
+            InterfaceType = interfaceType;
             Alias = alias;
             DependencyType = type;
         }
@@ -28,7 +28,7 @@ namespace MOMO.Infrastructure.Autofac
         /// <summary>
         /// 完全限定名
         /// </summary>
-        public string InterfaceFullName { get; set; }
+        public Type InterfaceType { get; set; }
         /// <summary>
         /// 别名
         /// </summary>
